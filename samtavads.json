@@ -1,28 +1,41 @@
-
 {
   "squadName" : "Super hero squad",
   "homeTown" : "Metro City",
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
-  {
- 
   "members" : [
     {
-      "name" : "Abohar - Ashram",
-      "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
-      "contact" : "01634-221176 (R), 01634-0220388 (S)",
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
     },
     {
-      "name" : "Abohar - Ashram",
-      "place" : 29,
-      "contact" : "Dan Jukes",
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
-   {
-      "name" : "Abohar - Ashram",
-      "place" : 29,
-      "contact" : "Dan Jukes",
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
     }
   ]
-}
 }
