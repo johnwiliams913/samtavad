@@ -1,0 +1,24 @@
+{
+  "squadName" : "Super hero squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
+      "contact" : "01634-221176 (R), 01634-0220388 (S)"
+    },
+    {
+      "name" : "Madame Uppercut",
+       "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
+      "contact" : ""
+    },
+    {
+      "name" : "Eternal Flame",
+             "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
+      "contact" : "01634-221176 (R), 01634-0220388 (S)"
+    }
+  ]
+}
